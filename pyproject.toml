@@ -1,0 +1,16 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "sanjaysharmagwl", email = "93424355+sharmasarita18@users.noreply.github.com"},
+]
+dependencies = [
+    "jupyter>=1.0.0",
+    "pandas>=2.0.2",
+    "matplotlib>=3.7.1",
+    "seaborn>=0.12.2",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
